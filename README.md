@@ -1,0 +1,2 @@
+# Minecraft_Armor_stand_plugin
+防具立てがプレイヤーの攻撃以外で壊れないようにするだけのspigot1.16.5プラグイン
