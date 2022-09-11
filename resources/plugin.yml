@@ -1,5 +1,0 @@
-name: Armor_stand
-version: '${version}'
-main: marumasa.armor_stand.minecraft
-api-version: 1.16
-authors: [ marumasa ]
